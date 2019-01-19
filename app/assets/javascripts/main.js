@@ -35,7 +35,7 @@ $(document).ready(function () {
 
     // Typed JS TRIGGER
 	$(".home-page .middle-c h3 span").typed({
-		strings: ["Ror Developer", "Dreamer"],
+		strings: ["Fullstack Developer", "Dreamer"],
 		loop: true,
 		startDelay: 1e3,
 		backDelay: 3e3

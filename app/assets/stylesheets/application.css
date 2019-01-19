@@ -12,7 +12,6 @@
  *
  *= require bootstrap/dist/css/bootstrap
  *= require font_path_overwrite
- *= require font-awesome/scss/font-awesome
  *= require jquery.mCustomScrollbar.min
  *= require owl-carousel/owl.carousel.min
  *= require owl-carousel/owl.theme.default.min
@@ -20,6 +19,7 @@
  *= require style
  *= require responsive
  *= require colors/main-color
+ *= require font-awesome
  *= require_tree .
  *= require_self
  */
