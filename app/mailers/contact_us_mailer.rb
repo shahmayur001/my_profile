@@ -5,6 +5,6 @@ class ContactUsMailer < ApplicationMailer
 		@email = email
 		@message = message
 
-		mail(from: email, to: 'shahmayur001@gmail.com' , subject: "Contact Messages")
+		mail(from: email, to: ENV['MYEMAIL'] , subject: "Contact Messages")
 	end
 end
