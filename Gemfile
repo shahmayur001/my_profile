@@ -28,7 +28,8 @@ gem 'turbolinks', '~> 5'
 gem 'jquery-rails'
 # font awesome 
 gem 'font-awesome-rails', '~> 4.5'
-
+#parsley-rails
+gem "parsley-rails"
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production

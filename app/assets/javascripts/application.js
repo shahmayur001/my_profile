@@ -11,6 +11,7 @@
 // about supported directives.
 //
 //= require jquery
+//= require parsley
 //= require rails-ujs
 //= require turbolinks
 //= require bootstrap/dist/js/bootstrap
@@ -18,7 +19,6 @@
 //= require typed
 //= require owl.carousel.min
 //= require jquery.magnific-popup.min
-//= require parsleyjs/src/parsley
 //= require particles.min
 //= require main
 //= require_tree .
